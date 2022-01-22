@@ -95,7 +95,7 @@ class MediaState extends State<Media> {
             ],
           )
         ],
-      ),
+      )
     );
   }
 }
